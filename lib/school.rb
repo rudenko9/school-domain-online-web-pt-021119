@@ -8,11 +8,8 @@ class School
   def roster
     roster = []
   end 
-  
-  def add_students
-    puts "AC Slater", 10
-  end 
-  
+ 
+
  end 
 
 
