@@ -5,5 +5,6 @@ class School
   attr_accessor :roster
 
    end 
+   school.roster
 school = School.new("Bayside High School")
 
