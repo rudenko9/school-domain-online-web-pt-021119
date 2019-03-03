@@ -16,7 +16,7 @@ class School
  def add_student(student, grade)
    @student
    @grade
-   hash["new_key"] << "new"
+   hash["new_key"] << 
  end 
  
  
