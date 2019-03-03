@@ -5,4 +5,4 @@ class School
   attr_accessor :roster
   
 end 
-  school = School.new(rostr)
+  school = School.new(roster)
