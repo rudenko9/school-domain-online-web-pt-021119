@@ -17,6 +17,7 @@ class School
  def add_student(student, grade)
    @student
    @grade
+   @studenko << @grade
  end 
 
  end 
