@@ -20,12 +20,11 @@ class School
  
  
  
- def grade=(grade)
-   @grade = grade
+ def grade(number)
+   roster[number]
+   
  end 
- def grade(grade)
-   @grade
- end 
+
  
  end 
 
