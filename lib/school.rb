@@ -8,11 +8,11 @@ class School
   def roster
     roster = []
   end 
- def add_students=(students)
-   @students = students
+ def add_student=(student)
+   @student = student
  end 
- def students
-   @students
+ def student
+   @student
  end 
 
  end 
