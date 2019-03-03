@@ -3,7 +3,7 @@ class School
     @roster = roster 
   end 
    attr_accessor :roster
-   
+   roster = []
    
 
 end 
