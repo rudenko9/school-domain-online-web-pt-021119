@@ -18,7 +18,7 @@ class School
    @grade
  end 
 hash = {}
-
+hash["new_key"] << "new_value_for_value_array"
 
  end 
 
