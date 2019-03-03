@@ -2,7 +2,13 @@ class School
   def initialize(roster)
     @roster = roster
   end 
-  attr_accessor :roster
+  def roster=(roster)
+    @roster = roster
+  end 
+  
+  def roster
+    @roster
+  end 
   
 end 
   
