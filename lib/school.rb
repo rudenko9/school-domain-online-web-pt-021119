@@ -17,7 +17,10 @@ class School
    @student
    @grade
  end 
- school.add_student("AC Slater", 9)
+ 
+ def grade(grade)
+   @grade = grade
+ end 
  
 
  end 
