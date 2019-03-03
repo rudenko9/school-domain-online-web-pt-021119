@@ -9,6 +9,11 @@ class School
   def roster
     @roster
   end 
-  
+  def school=(school)
+    @school = school
+  end
+  def school
+    @school
+  end 
 end 
   school.roster 
