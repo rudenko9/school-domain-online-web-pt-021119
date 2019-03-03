@@ -17,7 +17,8 @@ class School
    @student
    @grade
  end 
+ 
 
  end 
 
-school.add_student("AC Slater", 9)
+
