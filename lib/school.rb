@@ -13,7 +13,7 @@ class School
    @student = student
  end 
  
- def add_student
+ def add_student(student)
    @student
  end 
 
