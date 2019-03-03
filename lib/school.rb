@@ -6,4 +6,5 @@ class School
   end 
  end 
 
+roster = School.new 
 
