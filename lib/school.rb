@@ -20,4 +20,4 @@ class School
 
  end 
 
-school.add_student()
+school.add_student("AC Slater", 9)
