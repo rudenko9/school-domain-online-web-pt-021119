@@ -18,7 +18,6 @@ class School
    @grade
  end 
 
-
  end 
 
-
+school.add_student()
