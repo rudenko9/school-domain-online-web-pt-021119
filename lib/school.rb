@@ -21,7 +21,7 @@ class School
  def grade=(grade)
    @grade = grade
  end 
- def grade
+ def grade(grade)
    @grade
  end 
  
