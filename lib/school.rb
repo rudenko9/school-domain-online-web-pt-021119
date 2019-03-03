@@ -6,5 +6,4 @@ class School
 
    end 
 
-school = School.new("Bayside HIgh School")
-school.roster
+
