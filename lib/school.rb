@@ -9,13 +9,13 @@ class School
     roster = []
   end 
   
- def add_student=(student, roster)
+ def add_student=(student, grade)
    @student = student
-   @roster = roster
+   @grade = grade
  end 
- def add_student(student, roster)
+ def add_student(student, grade)
    @student
-   @roster
+   @grade
  end 
 
  end 
