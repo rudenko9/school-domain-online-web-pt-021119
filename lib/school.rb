@@ -5,7 +5,8 @@ class School
   def initialize(school)
     @school = school
   end 
+  
  end 
 
-roster = School.new 
+
 
