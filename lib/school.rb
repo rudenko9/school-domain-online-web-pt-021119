@@ -10,7 +10,7 @@ class School
   end 
   
   def add_students
-    add_students = []
+    puts "AC Slater", 10
   end 
   
  end 
