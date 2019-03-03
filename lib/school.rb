@@ -1,6 +1,6 @@
 class School
-  def initialize(school)
-    @school = school 
+  def initialize(roster)
+    @roster = school 
   end 
   
 end 
