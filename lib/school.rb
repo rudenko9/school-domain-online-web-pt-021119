@@ -3,3 +3,5 @@ class School
     @roster = roster 
   end 
 end 
+
+school.roster
