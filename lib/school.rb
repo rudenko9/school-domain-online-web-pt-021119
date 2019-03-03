@@ -10,6 +10,8 @@ class School
   end 
   
   def add_students
+    
+  end 
   
  end 
 
