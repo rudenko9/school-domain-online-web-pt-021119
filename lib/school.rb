@@ -17,6 +17,7 @@ class School
    @student
    @grade
  end 
+hash = {}
 
 
  end 
