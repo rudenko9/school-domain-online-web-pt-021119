@@ -17,7 +17,7 @@ class School
  def add_student(student, grade)
    @student
    @grade
-   @student << @roster
+   student << roster
  end 
 
  end 
