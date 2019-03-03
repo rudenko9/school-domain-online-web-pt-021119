@@ -3,8 +3,8 @@ class School
     @roster = roster 
   end 
    attr_accessor :roster
-   roster = []
-   
 
-end 
+   end 
 
+school = School.new("Bayside HIgh School")
+school.roster
