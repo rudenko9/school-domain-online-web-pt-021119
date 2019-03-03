@@ -8,7 +8,7 @@ class School
   def roster
     roster = []
   end 
- def (student)
+ def add_student=(student)
    @student = student
  end 
  def student
