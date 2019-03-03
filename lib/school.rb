@@ -1,7 +1,8 @@
 class School
-  def initialize(school)
-    @school = school
+  def initialize(model)
+    @model = model
   end 
+  attr_accessor :model
 
    end 
 school = School.new("Bayside High School")
